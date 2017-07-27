@@ -1,0 +1,52 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/charles/RiderProjects/sharpctp/sharpctp/sharpctp.csproj",
+    "projectName": "sharpctp",
+    "projectPath": "/home/charles/RiderProjects/sharpctp/sharpctp/sharpctp.csproj",
+    "outputPath": "/home/charles/RiderProjects/sharpctp/sharpctp/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard1.6"
+    ],
+    "frameworks": {
+      "netstandard1.6": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard1.6": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "target": "Package",
+          "version": "1.6.1"
+        },
+        "System.Net.Primitives": {
+          "target": "Package",
+          "version": "4.3.0"
+        },
+        "System.Reflection": {
+          "target": "Package",
+          "version": "4.3.0"
+        },
+        "System.Runtime": {
+          "target": "Package",
+          "version": "4.3.0"
+        },
+        "System.Runtime.Extensions": {
+          "target": "Package",
+          "version": "4.3.0"
+        },
+        "System.Runtime.InteropServices": {
+          "target": "Package",
+          "version": "4.3.0"
+        },
+        "System.Threading.Tasks": {
+          "target": "Package",
+          "version": "4.3.0"
+        }
+      }
+    }
+  }
+}

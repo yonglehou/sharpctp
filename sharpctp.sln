@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sharpctp", "sharpctp/sharpctp.csproj", "{F9B437CE-89AC-473F-A34A-EFAA8FB0692F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "demo\demo.csproj", "{84963CF4-C795-4E7D-A77D-4846A78F90A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9B437CE-89AC-473F-A34A-EFAA8FB0692F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B437CE-89AC-473F-A34A-EFAA8FB0692F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B437CE-89AC-473F-A34A-EFAA8FB0692F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B437CE-89AC-473F-A34A-EFAA8FB0692F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84963CF4-C795-4E7D-A77D-4846A78F90A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84963CF4-C795-4E7D-A77D-4846A78F90A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84963CF4-C795-4E7D-A77D-4846A78F90A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84963CF4-C795-4E7D-A77D-4846A78F90A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

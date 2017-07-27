@@ -1,0 +1,7 @@
+/home/charles/RiderProjects/sharpctp/sharpctp/bin/Debug/netstandard1.6/sharpctp.deps.json
+/home/charles/RiderProjects/sharpctp/sharpctp/bin/Debug/netstandard1.6/sharpctp.dll
+/home/charles/RiderProjects/sharpctp/sharpctp/bin/Debug/netstandard1.6/obj/Debug/netstandard1.6/sharpctp.pdb
+/home/charles/RiderProjects/sharpctp/sharpctp/obj/Debug/netstandard1.6/sharpctp.csprojResolveAssemblyReference.cache
+/home/charles/RiderProjects/sharpctp/sharpctp/obj/Debug/netstandard1.6/sharpctp.AssemblyInfo.cs
+/home/charles/RiderProjects/sharpctp/sharpctp/obj/Debug/netstandard1.6/sharpctp.dll
+/home/charles/RiderProjects/sharpctp/sharpctp/obj/Debug/netstandard1.6/sharpctp.pdb
