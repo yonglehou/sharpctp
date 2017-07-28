@@ -6,8 +6,8 @@ namespace demo
 {
     public class ctpdemo
     {
-        static FtdcMdAdapter DataApi;
-        static FtdcTdAdapter TraderApi;
+        public static FtdcMdAdapter DataApi;
+        public static FtdcTdAdapter TraderApi;
 
         static int iRequestID = 0;
 

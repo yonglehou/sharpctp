@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdc46f91-757b-4345-a25f-5dc71779a256" name="Default" comment="" />
+    <list default="true" id="fdc46f91-757b-4345-a25f-5dc71779a256" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/bin/Debug/netcoreapp1.1/demo.dll" afterPath="$PROJECT_DIR$/demo/bin/Debug/netcoreapp1.1/demo.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/bin/Debug/netcoreapp1.1/demo.pdb" afterPath="$PROJECT_DIR$/demo/bin/Debug/netcoreapp1.1/demo.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/bin/Debug/netcoreapp1.1/sharpctp.dll" afterPath="$PROJECT_DIR$/demo/bin/Debug/netcoreapp1.1/sharpctp.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/obj/Debug/netcoreapp1.1/CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/demo/obj/Debug/netcoreapp1.1/CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/obj/Debug/netcoreapp1.1/demo.dll" afterPath="$PROJECT_DIR$/demo/obj/Debug/netcoreapp1.1/demo.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/obj/Debug/netcoreapp1.1/demo.pdb" afterPath="$PROJECT_DIR$/demo/obj/Debug/netcoreapp1.1/demo.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sharpctp/bin/Debug/netstandard1.6/obj/Debug/netstandard1.6/sharpctp.pdb" afterPath="$PROJECT_DIR$/sharpctp/bin/Debug/netstandard1.6/obj/Debug/netstandard1.6/sharpctp.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sharpctp/bin/Debug/netstandard1.6/sharpctp.dll" afterPath="$PROJECT_DIR$/sharpctp/bin/Debug/netstandard1.6/sharpctp.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sharpctp/obj/Debug/netstandard1.6/CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/sharpctp/obj/Debug/netstandard1.6/CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sharpctp/obj/Debug/netstandard1.6/sharpctp.dll" afterPath="$PROJECT_DIR$/sharpctp/obj/Debug/netstandard1.6/sharpctp.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sharpctp/obj/Debug/netstandard1.6/sharpctp.pdb" afterPath="$PROJECT_DIR$/sharpctp/obj/Debug/netstandard1.6/sharpctp.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.sharpctp/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.sharpctp/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/ctpdemo.cs" afterPath="$PROJECT_DIR$/demo/ctpdemo.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/obj/Debug/netcoreapp1.1/demo.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/demo/obj/Debug/netcoreapp1.1/demo.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/obj/demo.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/demo/obj/demo.csproj.nuget.g.props" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/obj/project.assets.json" afterPath="$PROJECT_DIR$/demo/obj/project.assets.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/demo/obj/project.packagespec.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sharpctp/obj/Debug/netstandard1.6/sharpctp.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/sharpctp/obj/Debug/netstandard1.6/sharpctp.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sharpctp/obj/project.assets.json" afterPath="$PROJECT_DIR$/sharpctp/obj/project.assets.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sharpctp/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/sharpctp/obj/project.packagespec.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sharpctp/obj/sharpctp.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/sharpctp/obj/sharpctp.csproj.nuget.g.props" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sharpctp/sharpctp.csproj" afterPath="$PROJECT_DIR$/sharpctp/sharpctp.csproj" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,25 +51,28 @@
       <replace>libctpdll</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/demo/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/demo/ctpdemo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/.config/NuGet/NuGet.Config" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/sharpctp/EnumEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/sharpctp/MdApi.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/sharpctp/Enums.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/sharpctp/TdApi.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/sharpctp/Interop.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/sharpctp/Struct.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/sharpctp/EventArgs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sharpctp/Enums.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/.config/NuGet/NuGet.Config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sharpctp/Struct.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sharpctp/EnumEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sharpctp/Interop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/ctpdemo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sharpctp/TdApi.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/sharpctp/Class1.cs" />
         <option value="$PROJECT_DIR$/sharpctp/Interop.cs" />
-        <option value="$PROJECT_DIR$/demo/Program.cs" />
         <option value="$PROJECT_DIR$/demo/ctpdemo.cs" />
+        <option value="$PROJECT_DIR$/demo/Program.cs" />
       </list>
     </option>
   </component>
@@ -57,11 +83,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="-4" />
-    <option name="width" value="1215" />
-    <option name="height" value="673" />
+    <option name="x" value="64" />
+    <option name="y" value="-11" />
+    <option name="width" value="1217" />
+    <option name="height" value="812" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
@@ -77,6 +104,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <PATH>
@@ -93,7 +121,6 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -103,6 +130,7 @@
     <property name="RiderNuGetCacheManager.AutoClear.packages-cache" value="2" />
     <property name="RiderNuGetCacheManager.AutoClear.global-packages" value="2" />
     <property name="RiderNuGetCacheManager.AutoClear.temp" value="1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sharpctp/libctpdll.so" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -206,12 +234,14 @@
       <workItem from="1501146013296" duration="2634000" />
       <workItem from="1501149133964" duration="665000" />
       <workItem from="1501157945614" duration="5219000" />
-      <workItem from="1501166918264" duration="102000" />
+      <workItem from="1501166918264" duration="388000" />
+      <workItem from="1501167552895" duration="125000" />
+      <workItem from="1501251900447" duration="708000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8620000" />
+    <option name="totallyTimeSpent" value="9739000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -223,17 +253,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1215" height="673" extended-state="6" />
+    <frame x="64" y="-11" width="1217" height="812" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4826389" sideWeight="0.50288063" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.69512194" sideWeight="0.49711934" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38636363" sideWeight="0.49711934" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23703703" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -243,7 +274,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -330,27 +360,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sharpctp/EnumEvents.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="506" column="40" lean-forward="false" selection-start-line="506" selection-start-column="40" selection-end-line="506" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharpctp/Interop.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sharpctp/Struct.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -360,8 +369,170 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/ctpdemo.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3888">
-          <caret line="216" column="13" lean-forward="true" selection-start-line="216" selection-start-column="13" selection-end-line="216" selection-end-column="13" />
+        <state relative-caret-position="126">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharpctp/EnumEvents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <marker date="1501059631672" expanded="true" signature="0:265" ph="/* 上期技术 Ftdc C++ =&gt; .Net Framework Adapter ... */" />
+            <marker date="1501059631672" expanded="true" signature="295:16556" ph="{...}" />
+            <marker date="1501059631672" expanded="true" signature="352:412" ph="/// 所有的OnErrRtnXXXX回调事件 ... " />
+            <marker date="1501059631672" expanded="true" signature="445:2397" ph="{...}" />
+            <marker date="1501059631672" expanded="true" signature="460:515" ph="/// 未使用,保留 ... " />
+            <marker date="1501059631672" expanded="true" signature="538:620" ph="///报单录入错误回报, ThostFtdcInputOrderField ... " />
+            <marker date="1501059631672" expanded="true" signature="658:741" ph="///报单操作错误回报, ThostFtdcOrderActionField ... " />
+            <marker date="1501059631672" expanded="true" signature="779:867" ph="///执行宣告录入错误回报, ThostFtdcInputExecOrderField ... " />
+            <marker date="1501059631672" expanded="true" signature="909:998" ph="///执行宣告操作错误回报, ThostFtdcExecOrderActionField ... " />
+            <marker date="1501059631672" expanded="true" signature="1040:1125" ph="///询价录入错误回报, ThostFtdcInputForQuoteField ... " />
+            <marker date="1501059631672" expanded="true" signature="1166:1248" ph="///报价录入错误回报, ThostFtdcInputQuoteField ... " />
+            <marker date="1501059631672" expanded="true" signature="1286:1369" ph="///报价操作错误回报, ThostFtdcQuoteActionField ... " />
+            <marker date="1501059631672" expanded="true" signature="1407:1497" ph="///批量报单操作错误回报, ThostFtdcBatchOrderActionField ... " />
+            <marker date="1501059631672" expanded="true" signature="1540:1629" ph="///申请组合录入错误回报, ThostFtdcInputCombActionField ... " />
+            <marker date="1501059631672" expanded="true" signature="1672:1762" ph="///期货发起银行资金转期货错误回报, ThostFtdcReqTransferField ... " />
+            <marker date="1501059631672" expanded="true" signature="1809:1899" ph="///期货发起期货资金转银行错误回报, ThostFtdcReqTransferField ... " />
+            <marker date="1501059631672" expanded="true" signature="1946:2042" ph="///系统运行时期货端手工发起冲正银行转期货错误回报, ThostFtdcReqRepealField ... " />
+            <marker date="1501059631672" expanded="true" signature="2101:2197" ph="///系统运行时期货端手工发起冲正期货转银行错误回报, ThostFtdcReqRepealField ... " />
+            <marker date="1501059631672" expanded="true" signature="2256:2349" ph="///期货发起查询银行余额错误回报, ThostFtdcReqQueryAccountField ... " />
+            <marker date="1501059631672" expanded="true" signature="2404:2463" ph="/// 所有的OnFrontXXXX回调事件 ... " />
+            <marker date="1501059631672" expanded="true" signature="2495:3038" ph="{...}" />
+            <marker date="1501059631672" expanded="true" signature="2510:2565" ph="/// 未使用,保留 ... " />
+            <marker date="1501059631672" expanded="true" signature="2588:2668" ph="///当客户端与交易后台建立起通信连接时（还未登录前），该方法被调用。 ... " />
+            <marker date="1501059631672" expanded="true" signature="2703:3003" ph="///当客户端与交易后台通信连接断开时，该方法被调用。当发生这个情况后，API会自动重新连接，客户端可不做处理。 ... " />
+            <marker date="1501059631672" expanded="true" signature="3045:3102" ph="/// 所有的OnRspXXXX回调事件 ... " />
+            <marker date="1501059631672" expanded="true" signature="3132:12957" ph="{...}" />
+            <marker date="1501059631672" expanded="true" signature="3147:3202" ph="/// 未使用,保留 ... " />
+            <marker date="1501059631672" expanded="true" signature="3225:3307" ph="///登录请求响应, ThostFtdcRspUserLoginField ... " />
+            <marker date="1501059631672" expanded="true" signature="3340:3420" ph="///登出请求响应, ThostFtdcUserLogoutField ... " />
+            <marker date="1501059631672" expanded="true" signature="3454:3529" ph="///错误应答, ThostFtdcRspInfoField ... " />
+            <marker date="1501059631672" expanded="true" signature="3558:3646" ph="///订阅行情应答, ThostFtdcSpecificInstrumentField ... " />
+            <marker date="1501059631672" expanded="true" signature="3683:3773" ph="///取消订阅行情应答, ThostFtdcSpecificInstrumentField ... " />
+            <marker date="1501059631672" expanded="true" signature="3812:3900" ph="///订阅询价应答, ThostFtdcSpecificInstrumentField ... " />
+            <marker date="1501059631672" expanded="true" signature="3938:4028" ph="///取消订阅询价应答, ThostFtdcSpecificInstrumentField ... " />
+            <marker date="1501059631672" expanded="true" signature="4068:4154" ph="///客户端认证响应, ThostFtdcRspAuthenticateField ... " />
+            <marker date="1501059631672" expanded="true" signature="4190:4282" ph="///用户口令更新请求响应, ThostFtdcUserPasswordUpdateField ... " />
+            <marker date="1501059631672" expanded="true" signature="4324:4428" ph="///资金账户口令更新请求响应, ThostFtdcTradingAccountPasswordUpdateField ... " />
+            <marker date="1501059631672" expanded="true" signature="4480:4562" ph="///报单录入请求响应, ThostFtdcInputOrderField ... " />
+            <marker date="1501059631672" expanded="true" signature="4597:4681" ph="///预埋单录入请求响应, ThostFtdcParkedOrderField ... " />
+            <marker date="1501059631672" expanded="true" signature="4722:4813" ph="///预埋撤单录入请求响应, ThostFtdcParkedOrderActionField ... " />
+            <marker date="1501059631672" expanded="true" signature="4854:4942" ph="///报单操作请求响应, ThostFtdcInputOrderActionField ... " />
+            <marker date="1501059631672" expanded="true" signature="4977:5070" ph="///查询最大报单数量响应, ThostFtdcQueryMaxOrderVolumeField ... " />
+            <marker date="1501059631672" expanded="true" signature="5113:5209" ph="///投资者结算结果确认响应, ThostFtdcSettlementInfoConfirmField ... " />
+            <marker date="1501059631672" expanded="true" signature="5254:5342" ph="///删除预埋单响应, ThostFtdcRemoveParkedOrderField ... " />
+            <marker date="1501059631672" expanded="true" signature="5383:5478" ph="///删除预埋撤单响应, ThostFtdcRemoveParkedOrderActionField ... " />
+            <marker date="1501059631672" expanded="true" signature="5525:5613" ph="///执行宣告录入请求响应, ThostFtdcInputExecOrderField ... " />
+            <marker date="1501059631672" expanded="true" signature="5652:5746" ph="///执行宣告操作请求响应, ThostFtdcInputExecOrderActionField ... " />
+            <marker date="1501059631672" expanded="true" signature="5785:5870" ph="///询价录入请求响应, ThostFtdcInputForQuoteField ... " />
+            <marker date="1501059631672" expanded="true" signature="5908:5990" ph="///报价录入请求响应, ThostFtdcInputQuoteField ... " />
+            <marker date="1501059631672" expanded="true" signature="6025:6113" ph="///报价操作请求响应, ThostFtdcInputQuoteActionField ... " />
+            <marker date="1501059631672" expanded="true" signature="6148:6243" ph="///批量报单操作请求响应, ThostFtdcInputBatchOrderActionField ... " />
+            <marker date="1501059631672" expanded="true" signature="6283:6372" ph="///申请组合录入请求响应, ThostFtdcInputCombActionField ... " />
+            <marker date="1501059631672" expanded="true" signature="6412:6489" ph="///请求查询报单响应, ThostFtdcOrderField ... " />
+            <marker date="1501059631672" expanded="true" signature="6521:6598" ph="///请求查询成交响应, ThostFtdcTradeField ... " />
+            <marker date="1501059631672" expanded="true" signature="6630:6721" ph="///请求查询投资者持仓响应, ThostFtdcInvestorPositionField ... " />
+            <marker date="1501059631672" expanded="true" signature="6764:6852" ph="///请求查询资金账户响应, ThostFtdcTradingAccountField ... " />
+            <marker date="1501059631672" expanded="true" signature="6893:6974" ph="///请求查询投资者响应, ThostFtdcInvestorField ... " />
+            <marker date="1501059631672" expanded="true" signature="7009:7094" ph="///请求查询交易编码响应, ThostFtdcTradingCodeField ... " />
+            <marker date="1501059631672" expanded="true" signature="7132:7228" ph="///请求查询合约保证金率响应, ThostFtdcInstrumentMarginRateField ... " />
+            <marker date="1501059631672" expanded="true" signature="7275:7375" ph="///请求查询合约手续费率响应, ThostFtdcInstrumentCommissionRateField ... " />
+            <marker date="1501059631672" expanded="true" signature="7426:7507" ph="///请求查询交易所响应, ThostFtdcExchangeField ... " />
+            <marker date="1501059631672" expanded="true" signature="7542:7621" ph="///请求查询产品响应, ThostFtdcProductField ... " />
+            <marker date="1501059631672" expanded="true" signature="7655:7737" ph="///请求查询合约响应, ThostFtdcInstrumentField ... " />
+            <marker date="1501059631672" expanded="true" signature="7774:7861" ph="///请求查询行情响应, ThostFtdcDepthMarketDataField ... " />
+            <marker date="1501059631672" expanded="true" signature="7903:7994" ph="///请求查询投资者结算结果响应, ThostFtdcSettlementInfoField ... " />
+            <marker date="1501059631672" expanded="true" signature="8035:8121" ph="///请求查询转帐银行响应, ThostFtdcTransferBankField ... " />
+            <marker date="1501059631672" expanded="true" signature="8160:8259" ph="///请求查询投资者持仓明细响应, ThostFtdcInvestorPositionDetailField ... " />
+            <marker date="1501059631672" expanded="true" signature="8308:8388" ph="///请求查询客户通知响应, ThostFtdcNoticeField ... " />
+            <marker date="1501059631672" expanded="true" signature="8421:8518" ph="///请求查询结算信息确认响应, ThostFtdcSettlementInfoConfirmField ... " />
+            <marker date="1501059631672" expanded="true" signature="8566:8672" ph="///请求查询投资者持仓明细响应, ThostFtdcInvestorPositionCombineDetailField ... " />
+            <marker date="1501059631672" expanded="true" signature="8728:8835" ph="///查询保证金监管系统经纪公司资金账户密钥响应, ThostFtdcCFMMCTradingAccountKeyField ... " />
+            <marker date="1501059631672" expanded="true" signature="8884:8974" ph="///请求查询仓单折抵信息响应, ThostFtdcEWarrantOffsetField ... " />
+            <marker date="1501059631672" expanded="true" signature="9015:9123" ph="///请求查询投资者品种/跨品种保证金响应, ThostFtdcInvestorProductGroupMarginField ... " />
+            <marker date="1501059631672" expanded="true" signature="9176:9271" ph="///请求查询交易所保证金率响应, ThostFtdcExchangeMarginRateField ... " />
+            <marker date="1501059631672" expanded="true" signature="9316:9419" ph="///请求查询交易所调整保证金率响应, ThostFtdcExchangeMarginRateAdjustField ... " />
+            <marker date="1501059631672" expanded="true" signature="9470:9554" ph="///请求查询汇率响应, ThostFtdcExchangeRateField ... " />
+            <marker date="1501059631672" expanded="true" signature="9593:9689" ph="///请求查询二级代理操作员银期权限响应, ThostFtdcSecAgentACIDMapField ... " />
+            <marker date="1501059631672" expanded="true" signature="9731:9820" ph="///请求查询产品报价汇率, ThostFtdcProductExchRateField ... " />
+            <marker date="1501059631672" expanded="true" signature="9862:9945" ph="///请求查询产品组, ThostFtdcProductGroupField ... " />
+            <marker date="1501059631672" expanded="true" signature="9984:10089" ph="///请求查询做市商合约手续费率响应, ThostFtdcMMInstrumentCommissionRateField ... " />
+            <marker date="1501059631672" expanded="true" signature="10142:10243" ph="///请求查询做市商期权合约手续费响应, ThostFtdcMMOptionInstrCommRateField ... " />
+            <marker date="1501059631672" expanded="true" signature="10291:10389" ph="///请求查询报单手续费响应, ThostFtdcInstrumentOrderCommRateField ... " />
+            <marker date="1501059631672" expanded="true" signature="10439:10535" ph="///请求查询期权交易成本响应, ThostFtdcOptionInstrTradeCostField ... " />
+            <marker date="1501059631672" expanded="true" signature="10582:10678" ph="///请求查询期权合约手续费响应, ThostFtdcOptionInstrCommRateField ... " />
+            <marker date="1501059631672" expanded="true" signature="10724:10807" ph="///请求查询执行宣告响应, ThostFtdcExecOrderField ... " />
+            <marker date="1501059631672" expanded="true" signature="10843:10923" ph="///请求查询询价响应, ThostFtdcForQuoteField ... " />
+            <marker date="1501059631672" expanded="true" signature="10958:11035" ph="///请求查询报价响应, ThostFtdcQuoteField ... " />
+            <marker date="1501059631672" expanded="true" signature="11067:11164" ph="///请求查询组合合约安全系数响应, ThostFtdcCombInstrumentGuardField ... " />
+            <marker date="1501059631672" expanded="true" signature="11210:11294" ph="///请求查询申请组合响应, ThostFtdcCombActionField ... " />
+            <marker date="1501059631672" expanded="true" signature="11331:11419" ph="///请求查询转帐流水响应, ThostFtdcTransferSerialField ... " />
+            <marker date="1501059631672" expanded="true" signature="11460:11551" ph="///请求查询银期签约关系响应, ThostFtdcAccountregisterField ... " />
+            <marker date="1501059631672" expanded="true" signature="11593:11679" ph="///请求查询签约银行响应, ThostFtdcContractBankField ... " />
+            <marker date="1501059631672" expanded="true" signature="11718:11802" ph="///请求查询预埋单响应, ThostFtdcParkedOrderField ... " />
+            <marker date="1501059631672" expanded="true" signature="11840:11931" ph="///请求查询预埋撤单响应, ThostFtdcParkedOrderActionField ... " />
+            <marker date="1501059631672" expanded="true" signature="11975:12062" ph="///请求查询交易通知响应, ThostFtdcTradingNoticeField ... " />
+            <marker date="1501059631672" expanded="true" signature="12102:12199" ph="///请求查询经纪公司交易参数响应, ThostFtdcBrokerTradingParamsField ... " />
+            <marker date="1501059631672" expanded="true" signature="12245:12341" ph="///请求查询经纪公司交易算法响应, ThostFtdcBrokerTradingAlgosField ... " />
+            <marker date="1501059631672" expanded="true" signature="12386:12491" ph="///请求查询监控中心用户令牌, ThostFtdcQueryCFMMCTradingAccountTokenField ... " />
+            <marker date="1501059631672" expanded="true" signature="12544:12632" ph="///期货发起银行资金转期货应答, ThostFtdcReqTransferField ... " />
+            <marker date="1501059631672" expanded="true" signature="12680:12768" ph="///期货发起期货资金转银行应答, ThostFtdcReqTransferField ... " />
+            <marker date="1501059631672" expanded="true" signature="12816:12907" ph="///期货发起查询银行余额应答, ThostFtdcReqQueryAccountField ... " />
+            <marker date="1501059631672" expanded="true" signature="12964:13021" ph="/// 所有的OnRtnXXXX回调事件 ... " />
+            <marker date="1501059631672" expanded="true" signature="13051:16552" ph="{...}" />
+            <marker date="1501059631672" expanded="true" signature="13066:13121" ph="/// 未使用,保留 ... " />
+            <marker date="1501059631672" expanded="true" signature="13144:13229" ph="///深度行情通知, ThostFtdcDepthMarketDataField ... " />
+            <marker date="1501059631672" expanded="true" signature="13268:13347" ph="///询价通知, ThostFtdcForQuoteRspField ... " />
+            <marker date="1501059631672" expanded="true" signature="13382:13455" ph="///报单通知, ThostFtdcOrderField ... " />
+            <marker date="1501059631672" expanded="true" signature="13484:13557" ph="///成交通知, ThostFtdcTradeField ... " />
+            <marker date="1501059631672" expanded="true" signature="13586:13674" ph="///合约交易状态通知, ThostFtdcInstrumentStatusField ... " />
+            <marker date="1501059631672" expanded="true" signature="13714:13793" ph="///交易所公告通知, ThostFtdcBulletinField ... " />
+            <marker date="1501059631672" expanded="true" signature="13825:13910" ph="///交易通知, ThostFtdcTradingNoticeInfoField ... " />
+            <marker date="1501059631672" expanded="true" signature="13947:14041" ph="///提示条件单校验错误, ThostFtdcErrorConditionalOrderField ... " />
+            <marker date="1501059631672" expanded="true" signature="14086:14165" ph="///执行宣告通知, ThostFtdcExecOrderField ... " />
+            <marker date="1501059631672" expanded="true" signature="14198:14271" ph="///报价通知, ThostFtdcQuoteField ... " />
+            <marker date="1501059631672" expanded="true" signature="14300:14399" ph="///保证金监控中心用户令牌, ThostFtdcCFMMCTradingAccountTokenField ... " />
+            <marker date="1501059631672" expanded="true" signature="14447:14527" ph="///申请组合通知, ThostFtdcCombActionField ... " />
+            <marker date="1501059631672" expanded="true" signature="14561:14649" ph="///银行发起银行资金转期货通知, ThostFtdcRspTransferField ... " />
+            <marker date="1501059631672" expanded="true" signature="14695:14783" ph="///银行发起期货资金转银行通知, ThostFtdcRspTransferField ... " />
+            <marker date="1501059631672" expanded="true" signature="14829:14915" ph="///银行发起冲正银行转期货通知, ThostFtdcRspRepealField ... " />
+            <marker date="1501059631672" expanded="true" signature="14967:15053" ph="///银行发起冲正期货转银行通知, ThostFtdcRspRepealField ... " />
+            <marker date="1501059631672" expanded="true" signature="15105:15193" ph="///期货发起银行资金转期货通知, ThostFtdcRspTransferField ... " />
+            <marker date="1501059631672" expanded="true" signature="15241:15329" ph="///期货发起期货资金转银行通知, ThostFtdcRspTransferField ... " />
+            <marker date="1501059631672" expanded="true" signature="15377:15486" ph="///系统运行时期货端手工发起冲正银行转期货请求，银行处理完毕后报盘发回的通知, ThostFtdcRspRepealField ... " />
+            <marker date="1501059631672" expanded="true" signature="15546:15655" ph="///系统运行时期货端手工发起冲正期货转银行请求，银行处理完毕后报盘发回的通知, ThostFtdcRspRepealField ... " />
+            <marker date="1501059631672" expanded="true" signature="15715:15809" ph="///期货发起查询银行余额通知, ThostFtdcNotifyQueryAccountField ... " />
+            <marker date="1501059631672" expanded="true" signature="15857:15958" ph="///期货发起冲正银行转期货请求，银行处理完毕后报盘发回的通知, ThostFtdcRspRepealField ... " />
+            <marker date="1501059631672" expanded="true" signature="16012:16113" ph="///期货发起冲正期货转银行请求，银行处理完毕后报盘发回的通知, ThostFtdcRspRepealField ... " />
+            <marker date="1501059631672" expanded="true" signature="16167:16252" ph="///银行发起银期开户通知, ThostFtdcOpenAccountField ... " />
+            <marker date="1501059631672" expanded="true" signature="16293:16380" ph="///银行发起银期销户通知, ThostFtdcCancelAccountField ... " />
+            <marker date="1501059631672" expanded="true" signature="16423:16512" ph="///银行发起变更银行账号通知, ThostFtdcChangeAccountField ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharpctp/Interop.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding>
+            <marker date="1501164729928" expanded="true" signature="0:265" ph="/* 上期技术 Ftdc C++ =&gt; .Net Framework Adapter ... */" />
+            <marker date="1501164729928" expanded="false" signature="273:335" ph="..." />
+            <marker date="1501164729928" expanded="true" signature="350:23853" ph="{...}" />
+            <marker date="1501164729928" expanded="true" signature="438:23851" ph="{...}" />
+            <marker date="1501164729928" expanded="true" signature="469:1062" ph="{...}" />
+            <marker date="1501164729928" expanded="true" signature="651:777" ph="/* if (Environment.OSVersion.Platform == PlatformID.Unix) ... */" />
+            <marker date="1501164729928" expanded="true" signature="928:1052" ph="/* else ... */" />
+          </folding>
         </state>
       </provider>
     </entry>

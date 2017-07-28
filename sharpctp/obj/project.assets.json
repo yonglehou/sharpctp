@@ -4339,10 +4339,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/charles/RiderProjects/sharpctp/sharpctp/sharpctp.csproj",
+      "projectUniqueName": "/home/charles/sda3/RiderProjects/sharpctp/sharpctp/sharpctp.csproj",
       "projectName": "sharpctp",
-      "projectPath": "/home/charles/RiderProjects/sharpctp/sharpctp/sharpctp.csproj",
-      "outputPath": "/home/charles/RiderProjects/sharpctp/sharpctp/obj/",
+      "projectPath": "/home/charles/sda3/RiderProjects/sharpctp/sharpctp/sharpctp.csproj",
+      "outputPath": "/home/charles/sda3/RiderProjects/sharpctp/sharpctp/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.6"
